@@ -1,4 +1,4 @@
-# shiro_01_nosecurity
+# shiro_04_rolesecuritywithtags
 This demo is copy from url:http://www.brucephillips.name/blog/index.cfm/2009/4/5/An-Introduction-to-Ki-formerly-JSecurity--A-Beginners--Tutorial-Part-1
 But change the database to mysql on localhost.
 
